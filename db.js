@@ -14,3 +14,9 @@
 13.EF codd(Founder of RDB) and chodds 12 rule and if anyone uses this 12rules(0-12) then it can become a relational db
 14.mongodb created by 10gen company and later changed it to mongodb inc.
 */
+
+//Go to mongodb website
+//create a clustrer
+//create a username and password
+//Get the cluster
+const URI="mongodb+srv://abcd:abcd@cluster0.rfnapzt.mongodb.net/"
